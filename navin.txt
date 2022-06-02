@@ -1,5 +1,10 @@
 Helo man Dont worry
+<<<<<<< HEAD
 .....
 
 
 5th
+=======
+hi
+helo dot
+>>>>>>> 006e5ea0805900068f7112b392559ec114eedaab
